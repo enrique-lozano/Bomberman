@@ -4,7 +4,9 @@ Java implementation of this classic video game from the 80s
 
 ## Authors 🧑‍💻
 
-This Machine Learning project was co-author by [Mario Lozano Cortés](https://github.com/SrLozano) and [Enrique Lozano Cebriano](https://github.com/enriqueloz88). Computer Science and Engineering students at _Carlos III University of Madrid_.
+This project was co-author by [Mario Lozano Cortés](https://github.com/SrLozano) and [Enrique Lozano Cebriano](https://github.com/enriqueloz88). Computer Science and Engineering students at _Carlos III University of Madrid_.
+
+This project, carried out in 2017, was the first programming project that we both carried out, and therefore, it was our way of entering the world of programming and laying the foundations to continue learning and developing.
 
 ## Run it 🚀
 
